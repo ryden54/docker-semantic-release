@@ -1,0 +1,4 @@
+/node_modules
+/.ssh
+/run.sh
+/.bash_history
