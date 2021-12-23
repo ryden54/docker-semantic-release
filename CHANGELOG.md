@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ryden54/docker-semantic-release/compare/v1.0.0...v1.0.1) (2021-12-23)
+
+
+### Bug Fixes
+
+* **docker:** remove nano from docker image ([62d6706](https://github.com/ryden54/docker-semantic-release/commit/62d6706e12f398ddb77cf22ad7dc51e7af735416))
+
 # 1.0.0 (2021-12-23)
 
 
