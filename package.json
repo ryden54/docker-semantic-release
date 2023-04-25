@@ -5,10 +5,10 @@
   "author": "Cyril",
   "license": "MIT",
   "dependencies": {
-    "@codedependant/semantic-release-docker": "^3.1.2",
+    "@codedependant/semantic-release-docker": "^4.3.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "semantic-release": "^18.0.1"
+    "semantic-release": "^21.0.1"
   }
 }
